@@ -1,0 +1,6 @@
+{
+  "name": "AuraTalent AI",
+  "description": "An elite AI Talent Intelligence Engine that evaluates candidates across multiple dimensions including skill fit, experience fit, learning agility, growth trajectory, behavioral signals, risk, and hidden potential.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
