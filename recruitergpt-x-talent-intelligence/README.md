@@ -127,21 +127,18 @@ python app.py
 
 ### Dashboard
 
-(Add screenshot)
+<img width="341" height="352" alt="image" src="https://github.com/user-attachments/assets/43bb7f30-526b-45e8-9a0a-c50e596e290e" />
 
-### Confidence Engine
+<img width="325" height="292" alt="image" src="https://github.com/user-attachments/assets/c86a055b-0b6a-45b5-bb5f-29a6b8a6a1a5" />
 
-(Add screenshot)
+<img width="316" height="241" alt="image" src="https://github.com/user-attachments/assets/87927fa0-a9cb-43d9-bb7a-d858b051c496" />
 
-### Interview Lab
+<img width="512" height="477" alt="image" src="https://github.com/user-attachments/assets/521d32b3-e461-41ae-b385-7cd58687d4f0" />
 
-(Add screenshot)
+<img width="486" height="416" alt="image" src="https://github.com/user-attachments/assets/eb7ac9e5-7e32-41cd-a9c7-ffdff764c295" />
 
-### Recruiter Copilot
+<img width="523" height="422" alt="image" src="https://github.com/user-attachments/assets/111333ef-0e0e-448a-9f92-90113c1b0ad4" />
 
-(Add screenshot)
-
----
 
 ## Future Enhancements
 
@@ -152,18 +149,4 @@ python app.py
 - Email Automation
 - AI Interview Evaluation
 
----
 
-## Authors
-
-Mahesh Kumar
-
-B.Tech Artificial Intelligence and Data Science
-
-Sri Krishna College of Engineering and Technology
-
----
-
-## License
-
-MIT License
