@@ -128,10 +128,10 @@ python app.py
 ### Dashboard
 
 <img width="316" height="421" alt="image" src="https://github.com/user-attachments/assets/20ce76a9-90f0-44fb-9a33-2ca4dd9f844d" />
-____________________________________________________________________________________________________________________________________
+___________________________________________________________________
 
 <img width="341" height="352" alt="image" src="https://github.com/user-attachments/assets/43bb7f30-526b-45e8-9a0a-c50e596e290e" />
-____________________________________________________________________________________________________________________________________
+                                                                                                                                                         
 
 <img width="325" height="292" alt="image" src="https://github.com/user-attachments/assets/c86a055b-0b6a-45b5-bb5f-29a6b8a6a1a5" />
 
